@@ -71,15 +71,6 @@ HospitalManagementSystem
 
 ---
 
-## 📸 Screenshots
-
-* Main Dashboard
-* Patient Management Screens
-* Doctor Search Screen
-* Appointment Module
-
----
-
 ## 🚀 Future Enhancements
 
 * User authentication and role-based access
