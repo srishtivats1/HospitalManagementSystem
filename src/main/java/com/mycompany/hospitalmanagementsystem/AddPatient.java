@@ -202,6 +202,8 @@ public class AddPatient extends javax.swing.JFrame {
             pstmt.setString(4, dname);
             pstmt.executeUpdate();
             con.close();
+            JOptionPane.showMessageDialog(this,"Data Inserted");
+            
         }catch(Exception e){
             JOptionPane.showMessageDialog(this,e);
                     
